@@ -159,6 +159,7 @@ article{
     margin-left: 10%;
     margin-right: 5%;
     padding-bottom: 2rem;
+    width: 17rem;
 }
 
 .Products img{
@@ -176,6 +177,10 @@ article{
 
 }
 .Gold img{
+    object-fit: cover;
+    max-width:100%;
+}
+.Wedding img{
     object-fit: cover;
     max-width:100%;
 }
